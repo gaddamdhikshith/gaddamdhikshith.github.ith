@@ -425,6 +425,10 @@ span{
     align-items: center;
     flex-direction: column;
 }
+.testimonial-box{
+    max-width: 400px;
+    margin-left: 35px;
+   }
 .testimonial .heading{
     margin-bottom: 5rem;
 }
